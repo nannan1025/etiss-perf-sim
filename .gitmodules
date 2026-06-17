@@ -1,0 +1,8 @@
+[submodule "etiss"]
+	path = etiss
+	url = git@github.com:wysiwyng/etiss.git
+[submodule "etiss_plugins/SoftwareEvalLib"]
+	path = etiss_plugins/SoftwareEvalLib
+	url = git@github.com:nannan1025/SoftwareEvalLib.git
+	branch = llm_traces_bottleneck
+
